@@ -48,11 +48,15 @@ No terminal, com o ambiente virtual ativo, execute:
 ```bash
 streamlit run project.py
 ```
-O Streamlit abrirá no seu navegador no endereço:
-```bash
-http://localhost:8501
-```
 
 ## Telas do Dashboard
 - Tela inicial
+  <img width="1916" height="887" alt="Captura de tela 2025-08-14 131855" src="https://github.com/user-attachments/assets/2304bc94-07c6-43de-81cd-9caf7c290d8f" />
+- Gráficos
+  <img width="1465" height="818" alt="Captura de tela 2025-08-14 131905" src="https://github.com/user-attachments/assets/b633d2e4-d26c-497d-b2c7-1ce8731c6a80" />
   
+  
+<img width="1456" height="560" alt="Captura de tela 2025-08-14 131922" src="https://github.com/user-attachments/assets/c99988b4-b7e3-44be-baaf-a158b76e92a9" />
+
+
+
