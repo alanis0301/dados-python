@@ -19,7 +19,9 @@ O objetivo é permitir a **visualização e filtragem de dados salariais** na á
 - **Tabela de dados filtrados** diretamente no dashboard
 
 ---
-
+## Pré-requisitos
+- [Python 3.8+]
+- [pip]
 ## Instalação
 
 Clone o repositório e crie um ambiente virtual:
@@ -53,10 +55,10 @@ streamlit run project.py
 - Tela inicial
   <img width="1916" height="887" alt="Captura de tela 2025-08-14 131855" src="https://github.com/user-attachments/assets/2304bc94-07c6-43de-81cd-9caf7c290d8f" />
 - Gráficos
-  <img width="1465" height="818" alt="Captura de tela 2025-08-14 131905" src="https://github.com/user-attachments/assets/b633d2e4-d26c-497d-b2c7-1ce8731c6a80" />
-  
-  
-<img width="1456" height="560" alt="Captura de tela 2025-08-14 131922" src="https://github.com/user-attachments/assets/c99988b4-b7e3-44be-baaf-a158b76e92a9" />
+  <img width="1409" height="648" alt="Captura de tela 2025-08-14 131905" src="https://github.com/user-attachments/assets/b59fca49-244e-4f58-962f-18c853f701af" />
+  <img width="1381" height="560" alt="Captura de tela 2025-08-14 131922" src="https://github.com/user-attachments/assets/e2f7c6b1-7744-42cd-acf3-f83fe2783d4c" />
+  <img width="1404" height="656" alt="Captura de tela 2025-08-17 130227" src="https://github.com/user-attachments/assets/c7680eaf-d9d6-4dcb-b725-0b7fc30289d6" />
+
 
 
 
